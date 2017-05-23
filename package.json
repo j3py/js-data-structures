@@ -1,0 +1,16 @@
+{
+  "name": "js-data-structures",
+  "version": "1.0.0",
+  "private": true,
+  "description": "A collection of tested JavaScript data structures and algorithms from Groner's 'Learning JavaScript Data Structurens and Algorithms, 2nd Ed.'.",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest --coverage"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^20.0.3"
+  }
+}
